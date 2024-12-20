@@ -1,7 +1,8 @@
 # Projeto-Razor
 Projeto-Razor
-Portuguese:
+
+# Portuguese:
 Adicionar, remover, editar e visualizar lista de clientes CRUD.
 
-English:
+# English:
 Add, remove, edit, and view a client list CRUD. 
